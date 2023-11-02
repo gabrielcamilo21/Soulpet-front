@@ -77,9 +77,9 @@ Copyright (c) 2023 SoulPet]
 
 #
 ## Devs:
+>## - [Gabriel Camilo]
 >## - [Nai Utescher]
 >## - [Juliana Andrade]
->## - [Gabriel Camilo]
 >## - [Yuri Schuery]
 >## - [Daniela Guilhoto]
 #
